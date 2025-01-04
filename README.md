@@ -96,10 +96,8 @@ An intuitive weather application developed with **React Native**, designed to pr
 
 ----------
 
-## 🌈 Screenshots
+## 🌈 Preview
 
-_Add screenshots showcasing the app._  
-Example:  
 ![Weather App](./assets/img/weather-app.png)
 
 ----------
