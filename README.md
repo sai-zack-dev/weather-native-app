@@ -98,7 +98,9 @@ An intuitive weather application developed with **React Native**, designed to pr
 
 ## 🌈 Preview
 
-![Weather App](./assets/img/weather-app.png)
+<div align="center">
+  <img src="assets/img/weather-app.png" alt="Weather App Preview" width="450" height="400">
+</div>
 
 ----------
 
