@@ -1,7 +1,10 @@
-
 # 🌦 React Native Weather App
 
 An intuitive weather application developed with **React Native**, designed to provide real-time weather updates. Styled using **TailwindCSS (Nativewind)**, this app is fully responsive and works seamlessly across Android and iOS devices.
+
+<div align="center">
+  <img src="assets/img/weather-app.png" alt="Weather App Preview" width="450" height="400">
+</div>
 
 ----------
 
@@ -36,7 +39,6 @@ An intuitive weather application developed with **React Native**, designed to pr
     ```bash
     git clone https://github.com/sai-zack-dev/weather-native-app.git
     cd weather-native-app
-    
     ```
     
 2.  **Install Dependencies**:
@@ -60,7 +62,6 @@ An intuitive weather application developed with **React Native**, designed to pr
         ```plaintext
         API_URL=https://api.example.com
         API_KEY=your_api_key_here
-        
         ```
         
     -   Replace `your_api_key_here` with your key from the weather API provider.
@@ -77,30 +78,14 @@ An intuitive weather application developed with **React Native**, designed to pr
 
 1.  **Run the App on Android/iOS**:
     
-    -   For Android:
+    -   Type ```a``` for Android
         
-        ```bash
-        a
-        ```
-        
-    -   For iOS:
-        
-        ```bash
-        i
-        ```
+    -   Type ```i``` for iOS
         
 2.  **Explore App Features**:
     
     -   Input a city name to view detailed weather data.
     -   Access real-time temperature, conditions, and more.
-
-----------
-
-## 🌈 Preview
-
-<div align="center">
-  <img src="assets/img/weather-app.png" alt="Weather App Preview" width="450" height="400">
-</div>
 
 ----------
 
